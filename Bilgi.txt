@@ -1,0 +1,1 @@
+yönetici girişi: kullanıcı adı=yonetici şifre=123
